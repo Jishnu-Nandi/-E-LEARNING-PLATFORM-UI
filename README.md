@@ -66,3 +66,10 @@ This project is a practical front-end exercise that combines design, layout, and
 
 
 # OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c8b3f0ca-4c01-4dbe-bc64-9f66e5e3a550" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6017950f-5866-4fa5-a1f0-3bdc1e39ed06" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/716d6135-bd97-4706-b870-79c56b99d77f" />
+
